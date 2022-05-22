@@ -11,11 +11,12 @@ let username = conn.getName(who)
 let pp = 'https://i.imgur.com/BfsbCOR.jpg'
 let menu =`
 ╭══〘 🐈⚡️🐈⚡️🐈⚡️🐈 〙══╮
-║═ 𝙂𝙖𝙩𝙖𝘽𝙤𝙩 | 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨
+║═ The whatBots420
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-║❇️ *¡𝗛ola! ${username}* ❇️
+║ *𝗛ola! Como está! ${username}* 🙂
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-║🔰 *Creadora/Editora: Gata Dios* 
+║🔰 *Creador/Editor: el rebelde* 
+║🙂 *número de creador:* *wa.me/56977774748*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ╰══〘 🐈⚡️🐈⚡️🐈⚡️🐈 〙══╯
 ┏━━━━━━━━━━━━━━━━━━┓
@@ -34,9 +35,9 @@ let menu =`
 ┣ ↠⚜️ _Términos y condiciones_
 ┗━━━━━━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━━━━━━┓
-┃ *CUENTAS OFICIALES GATABOT*
+┃ *CUENTAS OFICIALES*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┣ ↠✅ _${usedPrefix}cuentasgatabot_
+┣ ↠✅ _${usedPrefix}_
 ┣ ↠✅ _${usedPrefix}cuentasgb_
 ┗━━━━━━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━━━━━━┓
@@ -112,12 +113,12 @@ let menu =`
 ┣ ↠🧩 _${usedPrefix}doxxeame_
 ┗━━━━━━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━━━━━━┓
-┃ *CONVERSA CON GATABOT*
+┃ *CONVERSA CON The whatBots420*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┃ *Puedes dirigirte tambien como* 
-┃ *(bot|bixby|siri|cortana|alexa)*
+┃ *(bot|siri|cortana|alexa)*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┃↠😼 _${usedPrefix}simi *texto*_
+┃↠😎 _${usedPrefix}simi *texto*_
 ┗━━━━━━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━━━━━━┓
 ┃ *DESCARGAS*
@@ -218,9 +219,9 @@ let menu =`
 ┣ ↠🪄 _${usedPrefix}estilo *texto*_
 ┗━━━━━━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━━━━━━┓
-┃ *SUBIR ESTADOS A GATABOT*
+┃ *SUBIR ESTADOS*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┃ *¡Sube estados a la cuenta de GataBot!*
+┃ *¡Sube estados a la cuenta de The whatBots420!*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┣ ↠📸 _${usedPrefix}subirestado *texto / video|imagen*_
 ┣ ↠📸 _${usedPrefix}subirestado *texto / gif*_
@@ -405,9 +406,9 @@ let menu =`
 ┣ ↠👑 _${usedPrefix}bcbot *texto*_
 ┣ ↠💎 _${usedPrefix}bcgc *texto*_
 ┗━━━━━━━━━━━━━━━━━━┛
-𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨`.trim()
+The whatBots420`.trim()
 conn.send3ButtonLoc(m.chat, (await fetch(pp)).buffer(), `
-⁖ᯓ፨҈༺ 𝙂𝙖𝙩𝙖𝘽𝙤𝙩 | 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨 ༻፨҈ᯓ⁖
+⁖ᯓ፨҈༺ The whatBots420 ༻፨҈ᯓ⁖
 `.trim(), menu, '😸 𝙃𝙊𝙇𝘼 😸', `Hola`, '🔊 𝙈𝙀𝙉𝙐 𝘿𝙀 𝘼𝙐𝘿𝙄𝙊𝙎 🔊', `#menuaudios`, '⚡️ 𝙈𝙀𝙉𝙐 𝙉𝙐𝙀𝙑𝙊 ⚡️', `#menu`, m, false, { contextInfo: { mentionedJid }})}
 handler.command = /^(menucompleto|menúcompleto|completomemu|completomemú|mcompleto|Menucompleto|Mcompleto|Mnúcompleto)$/i
 module.exports = handler
