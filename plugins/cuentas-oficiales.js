@@ -1,7 +1,7 @@
 let handler = async m => m.reply(`
 ✅ 𝘾𝙐𝙀𝙉𝙏𝘼𝙎 𝙊𝙁𝙄𝘾𝙄𝘼𝙇𝙀𝙎 ✅
 
-*Hola, los números Oficiales de GataBot son:*
+*Hola, los números Oficiales de The whatBots420 son:*
 
 🙂 * The whatBots420😎 ~ Wa.me/447441419651*
 
@@ -25,14 +25,14 @@ _________________________________________________
 *https://chat.whatsapp.com/EpzuymKm6lG08k6J2Dwx7F*
 _________________________________________________
 
-*INFORMATE EN INSTAGRAM*
+*LOS SUB BOT OFICIAL DE ESTE BOT*
 
-*https://instagram.com/gata_dios*
-👆 _Solo escríbeme para temas relacionados a GataBot_
+*Wa.me/50495745934*
+👆 _si quiere agrega al bot a tu grupo_
 
 _________________________________________________
 
-*CANAL OFICIAL DE YOUTUBE*
+*CANAL OFICIAL  DE gatabot de YOUTUBE*
 
 *https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA*
 
