@@ -47,10 +47,10 @@ _________________________________________________
 ⚠️ *Los Bots Oficiales son temporales en grupos, es preferible que sea Bot o instalar* ⚠️
                             🙂 The whatBots420 🙂                    
 `.trim()) 
-//😸 *The whatBots420 ~ https://wa.me/56977774748*
+//🙂 *The whatBots420 ~ https://wa.me/56977774748*
 //*Número de la Creador (NO BOT)*
 
-//😸 *The whatBots420 ~ https://wa.me/56977774748*
+//😎  *The whatBots420 ~ https://wa.me/56977774748*
 
 //👆 _Solo escríbeme para temas relacionados a bot_
 //_________________________________________________
