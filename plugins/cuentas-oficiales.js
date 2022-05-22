@@ -1,11 +1,11 @@
 let handler = async m => m.reply(`
-✅ 𝘾𝙐𝙀𝙉𝙏𝘼𝙎 𝙊𝙁𝙄𝘾𝙄𝘼𝙇𝙀𝙎 𝙂𝘼𝙏𝘼𝘽𝙊𝙏 ✅
+✅ 𝘾𝙐𝙀𝙉𝙏𝘼𝙎 𝙊𝙁𝙄𝘾𝙄𝘼𝙇𝙀𝙎 ✅
 
 *Hola, los números Oficiales de GataBot son:*
 
-🐈 *GataBot ~ Wa.me/593993684821*
+🙂 * The whatBots420😎 ~ Wa.me/447441419651*
 
-👆 _Para saber si GataBot está Activada escriba #estado_
+👆 _Para saber si The whatBots420 está Activo escriba #estado_
 
 👆 _Para ver el menú escriba #menu_
 
@@ -13,16 +13,16 @@ let handler = async m => m.reply(`
 
 👆 _Puedes hacer una solicitud para que los Bots Oficiales se unan diciendo #unete enlace del grupo_
 
-👆 _Puedes Instalar a GataBot diciendo #instalarbot y #procesobot_
+👆 _Puedes Instalar a The whatBots420 diciendo #instalarbot y #procesobot_
 
 _________________________________________________
 
-*GRUPO OFICIAL GATABOT*
-*https://chat.whatsapp.com/Hahc7UwSouH9jIDStkT5QW*
+*GRUPO OFICIAL THE WHATBOTS420*
+*https://chat.whatsapp.com/Lus9S60MABnH9lF4Wf2T7k*
 
-*GRUPO OFICIAL GATABOT #2*
-*https://chat.whatsapp.com/JFTOYLdpiTBCluFJvikBxN*
-
+*GRUPO OFICIAL THE SHADOW*
+*https://chat.whatsapp.com/GKdDtQKWP5LCgpbzucz6kt*
+*https://chat.whatsapp.com/EpzuymKm6lG08k6J2Dwx7F*
 _________________________________________________
 
 *INFORMATE EN INSTAGRAM*
@@ -44,18 +44,18 @@ _________________________________________________
 
 _________________________________________________
 
-⚠️ *Los Bots Oficiales son temporales en grupos, es preferible que sea Bot o instalar a GataBot* ⚠️
-                            🐈 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨 🐈                    
+⚠️ *Los Bots Oficiales son temporales en grupos, es preferible que sea Bot o instalar* ⚠️
+                            🙂 The whatBots420 🙂                    
 `.trim()) 
-//😸 *Gata Dios ~ https://wa.me/message/XBTGQ4NYEWM7O1*
-//*Número de la Creadora (NO BOT)*
+//😸 *The whatBots420 ~ https://wa.me/56977774748*
+//*Número de la Creador (NO BOT)*
 
-//😸 *Gata Dios ~ https://wa.me/message/XBTGQ4NYEWM7O1*
+//😸 *The whatBots420 ~ https://wa.me/56977774748*
 
-//👆 _Solo escríbeme para temas relacionados a GataBot_
+//👆 _Solo escríbeme para temas relacionados a bot_
 //_________________________________________________
 handler.help = ['instalarbot']
 handler.tags = ['info']
-handler.command = /^cuentasoficiales|cuentaoficial|cuentasofc|cuentasgatabot|Cuentasoficiales|cuentagatabot|cuentasgb|cuentagb|Cuentagb|Cuentasgb$/i
+handler.command = /^cuentasoficiales|cuentaoficial|cuentasofc|cuentaswhatbots|Cuentasoficiales|cuentawhatbots|cuentaswb|cuentawb|Cuentawb|Cuentaswb$/i
 
 module.exports = handler
