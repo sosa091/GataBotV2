@@ -156,7 +156,7 @@ let menu =`
 ┣ ↠❄️ _${usedPrefix}wpaesthetic | fondoaesthetic_
 ┗━━━━━━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━━━━━━┓
-┃ *GESTION DE GRUPOS* 
+┃ *GESTION DE GRUPOs* 
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┣ ↠🔐 _${usedPrefix}admins *texto*_ 
 ┣ ↠🔒 _${usedPrefix}añadir *numero*_ (desactivado)
